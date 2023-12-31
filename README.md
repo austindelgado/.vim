@@ -1,4 +1,4 @@
-For consitent settings across workstations
+For consistent settings across workstations
 
 1. Clone this repository into home directory
 2. Vim will look her by default, so nothing to change there
